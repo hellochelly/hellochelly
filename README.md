@@ -2,6 +2,8 @@
 
 I am a Front End Developer :sparkling_heart:
 
+I love technology and learning new things. 
+
 - 🔭 I’m currently working on React apps. 
 - 🌱 I’m currently learning about CI. 
 - 💬 Ask me about Javascript, React, UI components and integrations. 
