@@ -4,7 +4,7 @@ I am a Front End Developer :sparkling_heart:
 
 - 🔭 I’m currently working on React apps. 
 - 🌱 I’m currently learning about CI. 
-- 💬 Ask me about all the geeky things. 
+- 💬 Ask me about Javascript, React, UI components and integrations. 
 - ⚡ Fun fact: I am a space fanatic :rocket:
 - 💻 I get jacked into the matrix a lot!
 - 🎵 Music: ODESZA, Illenium, D&B, breakbeats, jazz, lofi. 
