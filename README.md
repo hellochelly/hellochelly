@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 
-I am a Front End Developer :sparkling_heart:
+I am a Front End Developer :sparkling_heart:💫
 
-I love technology and learning new things. 
+Innovative, task driven developer and technologist with experience in JavaScript, HTML/CSS, and ReactJS. 
 
 - 🔭 I’m currently working on React apps. 
 - 🌱 I’m currently learning about CI. 
@@ -10,6 +10,7 @@ I love technology and learning new things.
 - ⚡ Fun fact: I am a space fanatic :rocket:
 - 💻 I get jacked into the matrix a lot!
 - 🎵 Music: ODESZA, Illenium, D&B, breakbeats, jazz, lofi. 
+- 👩‍💻 Working to become a Full Stack Developer 🥞 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hellochelly&theme=dracula&no-frame=true)
 
