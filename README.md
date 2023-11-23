@@ -16,4 +16,5 @@ Innovative, task driven developer and technologist with experience in JavaScript
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,materialui,typescript,express,vscode,ps,postman,docker,sass,styledcomponents,html,css,git,github,mongodb,azure,bootstrap,vim,webpack)](https://skillicons.dev)
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
