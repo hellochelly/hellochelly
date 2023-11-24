@@ -14,17 +14,17 @@ Innovative, task driven developer and technologist with experience in JavaScript
 
 <hr>
   
-<h2>Github Stats!</h2>
+<h2>🏆 Github Stats</h2>
 
 <em>I mostly push code to private repos</em>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hellochelly&theme=dracula&no-frame=true)
 
-<h2>Experience & Skills</h2>
+<h2>👩‍💻 Skill Set</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,materialui,typescript,express,vscode,ps,postman,docker,sass,styledcomponents,html,css,git,github,mongodb,azure,bootstrap,vim,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,materialui,typescript,express,vscode,ps,postman,docker,sass,styledcomponents,html,fastapi,css,git,github,mongodb,azure,bootstrap,vim,webpack)](https://skillicons.dev)
 
-<h2>Coding Stats</h2>
+<h2>💻 Coding Stats</h2>
 
 [![wakatime](https://wakatime.com/badge/user/018bf6a0-033b-4c29-b085-918461a223ae/project/018bf6aa-0abe-4f04-a756-2f8b5f9e032f.svg?style=for-the-badge)](https://wakatime.com/badge/user/018bf6a0-033b-4c29-b085-918461a223ae/project/018bf6aa-0abe-4f04-a756-2f8b5f9e032f)
 
