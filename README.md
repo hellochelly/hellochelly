@@ -9,7 +9,8 @@ Innovative, task driven developer and technologist with experience in JavaScript
 - 💬 Ask me about Javascript, React, UI components and integrations. 
 - ⚡ Fun fact: I am a space fanatic :rocket:
 - 💻 I get jacked into the matrix a lot!
-- 🎵 Music: ODESZA, Illenium, D&B, breakbeats, jazz, lofi. 
+- 🎵 Music: ODESZA, Illenium, D&B, breakbeats, jazz, lofi.
+- 🔮 Hobbies (outside of coding!): Playing the Violin, Disc Golfing, spending time with family, learning new things.
 - 👩‍💻 Working to become a Full Stack Developer 🥞
 
 <hr>
