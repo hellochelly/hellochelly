@@ -22,4 +22,6 @@ Innovative, task driven developer and technologist with experience in JavaScript
 
 [![wakatime](https://wakatime.com/badge/user/018bf6a0-033b-4c29-b085-918461a223ae.svg)](https://wakatime.com/@018bf6a0-033b-4c29-b085-918461a223ae)
 
-![wakatime](https://wakatime.com/share/@hellochelly/684de3f2-e032-40c3-b9a2-ef7b8e57ec96.svg)
+<img src="https://wakatime.com/share/@hellochelly/9925969f-8383-4c81-aacd-1c2022a94c78.svg" width="500" height="500"> <img src="https://wakatime.com/share/@hellochelly/640352e2-4b25-41d2-8961-be0875786db0.svg" width="500" height="500">
+<img src="https://wakatime.com/share/@hellochelly/89affcb7-0c1c-47d5-b72c-830ab34c9f00.svg" width="500" height="500">
+
