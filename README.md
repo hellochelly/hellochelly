@@ -21,7 +21,7 @@ Innovative, task driven developer and technologist with experience in JavaScript
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hellochelly&theme=dracula&no-frame=true)
 
-<h2>👩‍💻 Skill Set</h2>
+<h2>👩‍💻 Skill Set & Experience</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,materialui,typescript,express,vscode,ps,postman,docker,sass,styledcomponents,html,fastapi,css,git,github,mongodb,azure,bootstrap,vim,webpack)](https://skillicons.dev)
 
