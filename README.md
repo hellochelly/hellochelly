@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 
-<h2>I am a Front End Developer :sparkling_heart:💫</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&random=false&width=435&lines=I+am+a+Front-End+Developer+%F0%9F%92%96%F0%9F%92%AB)](https://git.io/typing-svg)
 
-Innovative, task driven developer and technologist with experience in JavaScript, ReactJS. and HTML/CSS.
+Innovative, task driven developer and technologist with experience in JavaScript, ReactJS and HTML/CSS.
 
 - 🔭 I’m currently working on React apps. 
 - 🌱 I’m currently learning about CI. 
