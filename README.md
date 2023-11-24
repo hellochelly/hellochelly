@@ -14,7 +14,12 @@ Innovative, task driven developer and technologist with experience in JavaScript
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hellochelly&theme=dracula&no-frame=true)
 
+<h2>My Skills</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,materialui,typescript,express,vscode,ps,postman,docker,sass,styledcomponents,html,css,git,github,mongodb,azure,bootstrap,vim,webpack)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellochelly&layout=compact)
+<h2>Coding Stats</h2>
 
+[![wakatime](https://wakatime.com/badge/user/018bf6a0-033b-4c29-b085-918461a223ae.svg)](https://wakatime.com/@018bf6a0-033b-4c29-b085-918461a223ae)
+
+![wakatime](https://wakatime.com/share/@hellochelly/684de3f2-e032-40c3-b9a2-ef7b8e57ec96.svg)
