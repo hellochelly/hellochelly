@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&random=false&width=435&lines=I'm+a+Front-End+Developer+%F0%9F%92%96%F0%9F%92%AB)](https://git.io/typing-svg)
 
-Innovative, task driven developer and technologist with experience in JavaScript, ReactJS and HTML/CSS. I Coding!
+Innovative, task driven developer and technologist with experience in JavaScript, ReactJS and HTML/CSS. I 🩵 Coding!
 
 ## 🔭 I'm currently working on
 
