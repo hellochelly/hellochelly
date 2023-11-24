@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 
-I am a Front End Developer :sparkling_heart:💫
+<h2>I am a Front End Developer :sparkling_heart:💫</h2>
 
-Innovative, task driven developer and technologist with experience in JavaScript, HTML/CSS, and ReactJS. 
+Innovative, task driven developer and technologist with experience in JavaScript, ReactJS. and HTML/CSS.
 
 - 🔭 I’m currently working on React apps. 
 - 🌱 I’m currently learning about CI. 
@@ -14,7 +14,7 @@ Innovative, task driven developer and technologist with experience in JavaScript
 
 <hr>
   
-<h2>Hi GitHub!</h2>
+<h2>Github Stats!</h2>
 
 <em>I mostly push code to private repos</em>
 
