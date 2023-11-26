@@ -18,12 +18,15 @@ Innovative, task driven developer and technologist with experience in JavaScript
 - Docker Environments
 - Context
 
-## 🔮 Hobbies
+## 🎻 Hobbies
 - I play lots of different musical instruments (Violin, Kalimba, Piano, etc)
 - Listening to Music: Lo-Fi, Techno/Trance/Old School Breakbeats, Nerdcore Hiphop, and Jazz
 - Disc Golf
 - Spending time with Family
 - Beat Saber
+
+## 👑 Goals
+- To become a Full-Stack Developer 🥞
 
 <hr>
   
