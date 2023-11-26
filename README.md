@@ -14,6 +14,7 @@ Innovative, task driven developer and technologist with experience in JavaScript
 ## 🌱 I'm currently learning
 
 - CircleCI
+- Go
 - Docker Environments
 - Context
 
